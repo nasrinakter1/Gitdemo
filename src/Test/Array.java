@@ -79,6 +79,13 @@ public class Array {
 		 }
 		 System.out.println();
 	 }
+	 
+	 public void gitCheck() {
+		 System.out.println("commend");
+		 System.out.println("commend1");
+		 System.out.println("Hello");
+		 System.out.println("Good morning");
+	 }
 	}
 	 
 	
